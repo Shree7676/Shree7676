@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shree7676
-- 👀 I’m interested in Data Science | AI | ML | Finance
+- 👀 I’m interested in combining Data Science & Finance 
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an internship / I am willing to help any data science project
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/shreekant-nandiyawar-54408a1ba)
 
 <!---
