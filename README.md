@@ -7,15 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree7676&label=Profile%20views&color=0e75b6&style=flat" alt="shree7676" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **Shreekantnandiyawar@gmail.com**
-
-- ⚡ Fun fact **I am Hired**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
