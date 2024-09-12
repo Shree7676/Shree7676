@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreekant V Nandiyawar</h1>
 <h3 align="center">A passionate Coder</h3>
 
-![banner_linkedin](https://github.com/Shree7676/Shree7676/assets/105912861/4cd24c82-7227-45c8-8d50-ef142dc1e45c)
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree7676&label=Profile%20views&color=0e75b6&style=flat" alt="shree7676" /> </p>
